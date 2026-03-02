@@ -37,7 +37,6 @@ I’m seeking my first opportunity in the tech industry where I can contribute, 
 ### Work Tools:
 ![VS Code](https://img.shields.io/badge/vscode-C8A2FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-C8A2FF?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-C8A2FF?style=for-the-badge&logo=notion&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-C8A2FF?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-C8A2FF?style=for-the-badge&logo=Canva&logoColor=white)
 
