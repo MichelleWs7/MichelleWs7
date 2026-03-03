@@ -14,7 +14,7 @@
 [![Programmer](https://img.shields.io/badge/Programmer-C8A2FF?style=for-the-badge&logo=code&logoColor=white)]() 
 [![Student](https://img.shields.io/badge/Student-D8B4FE?style=for-the-badge&logo=book&logoColor=white)]() 
 
-I'm a programming student set to graduate in 2027, currently building my skills through self-study and practice.
+I'm a student set to graduate in 2027, currently building my skills through self-study and practice.
 I have a strong interest in web development, C#, and JavaScript, and I enjoy turning ideas into functional solutions.
 I’m seeking my first opportunity in the tech industry where I can contribute, expand my knowledge, and develop professionally.
 
