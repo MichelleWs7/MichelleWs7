@@ -40,6 +40,12 @@ I’m seeking my first opportunity in the tech industry where I can contribute, 
 ![Notepad++](https://img.shields.io/badge/Notepad++-C8A2FF?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-C8A2FF?style=for-the-badge&logo=Canva&logoColor=white)
 
+### Language:
+![English](https://img.shields.io/badge/English-C8A2FF?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Norwegian](https://img.shields.io/badge/Norwegian-C8A2FF?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Portuguese](https://img.shields.io/badge/Portuguese-C8A2FF?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Spanish](https://img.shields.io/badge/Spanish-C8A2FF?style=for-the-badge&logo=googletranslate&logoColor=white)
+
 ### Contact
 <table>
   <tr>
