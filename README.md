@@ -42,9 +42,16 @@ I’m seeking my first opportunity in the tech industry where I can contribute, 
 
 ### Language:
 ![English](https://img.shields.io/badge/English-C8A2FF?style=for-the-badge&logo=googletranslate&logoColor=white)
+![C1](https://img.shields.io/badge/B2-555555?style=for-the-badge)
+
 ![Norwegian](https://img.shields.io/badge/Norwegian-C8A2FF?style=for-the-badge&logo=googletranslate&logoColor=white)
+![C2](https://img.shields.io/badge/B2-555555?style=for-the-badge)
+
 ![Portuguese](https://img.shields.io/badge/Portuguese-C8A2FF?style=for-the-badge&logo=googletranslate&logoColor=white)
+![C2](https://img.shields.io/badge/B2-555555?style=for-the-badge)
+
 ![Spanish](https://img.shields.io/badge/Spanish-C8A2FF?style=for-the-badge&logo=googletranslate&logoColor=white)
+![B1](https://img.shields.io/badge/B2-555555?style=for-the-badge)
 
 ### Contact
 <table>
